@@ -1,14 +1,13 @@
 .shop-container{
-    background-color: whitesmoke;
     display: flex;
 }
 .product-container{
-    background-color: turquoise;
     width: 70%;
     margin-left: 20px ;
     margin-right: 5px ;
-    border-right: 1px solid blue;
+    border-right: 1px solid gray;
 }
 .cart-container{
     background-color: teal;
+    width: 30%;
 }
